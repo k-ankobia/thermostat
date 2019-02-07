@@ -1,0 +1,17 @@
+{
+  "name": "thermostat",
+  "version": "1.0.0",
+  "description": "thermostat workshop",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "kwaku",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
