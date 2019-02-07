@@ -11,5 +11,8 @@ Thermostat.prototype = {
   },
     up: function () {
     this._temperature += 1;
+  },
+  down: function (){
+    this._temperature -=1;
   }
 }
